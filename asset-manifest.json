@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yujin37/2022-devfest-react-codejam.git/static/css/main.3bb28835.css",
+    "main.js": "/yujin37/2022-devfest-react-codejam.git/static/js/main.6e905199.js",
+    "static/js/787.c890882a.chunk.js": "/yujin37/2022-devfest-react-codejam.git/static/js/787.c890882a.chunk.js",
+    "static/media/chats.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/chats.ad16c22a8dc60e079e339ae0ddaad992.svg",
+    "static/media/control.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/control.0982b652294a844ac3e56cfc3205b7e9.svg",
+    "static/media/bell.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/bell.7ea8c53bee09273a7ba7160fac7c533d.svg",
+    "static/media/my.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/my.64e97ed2fe36a686448d6cc87cb437d1.svg",
+    "static/media/category.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/category.08dfd52aec38c5e4a25b2e44f4da3796.svg",
+    "index.html": "/yujin37/2022-devfest-react-codejam.git/index.html",
+    "static/media/search.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/search.c769ce945faf2fe312b3f348d4823bfd.svg",
+    "static/media/home.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/home.6b467b02e92f33955a15727023214da9.svg",
+    "static/media/back.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/back.df7a507898d2fe80ba54cbba506bf11f.svg",
+    "static/media/chevron.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/chevron.310442c00aa235d5ad9267f24f71f099.svg",
+    "static/media/sell.svg": "/yujin37/2022-devfest-react-codejam.git/static/media/sell.e0b367b7723ddfb7ad552da25ddcfec8.svg",
+    "main.3bb28835.css.map": "/yujin37/2022-devfest-react-codejam.git/static/css/main.3bb28835.css.map",
+    "main.6e905199.js.map": "/yujin37/2022-devfest-react-codejam.git/static/js/main.6e905199.js.map",
+    "787.c890882a.chunk.js.map": "/yujin37/2022-devfest-react-codejam.git/static/js/787.c890882a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb28835.css",
+    "static/js/main.6e905199.js"
+  ]
+}
